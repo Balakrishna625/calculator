@@ -1,2 +1,2 @@
 x = a + b
-result is ab
+result is AB
